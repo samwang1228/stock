@@ -1,0 +1,275 @@
+1657867409325	geckodriver	INFO	Listening on 127.0.0.1:61930
+1657867496448	geckodriver	INFO	Listening on 127.0.0.1:62078
+1657867499490	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileapiNNY"
+1657867499978	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62079
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileapiNNY\\search.json.mozlz4", (void 0)))
+1657867501803	Marionette	INFO	Listening on port 62100
+DevTools listening on ws://localhost:62079/devtools/browser/8516a1e5-432e-4335-a2b9-8b5f2bf79107
+Read port: 62100
+1657867502751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657867523134	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657870004211	Marionette	INFO	Stopped listening on port 62100
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657870135563	geckodriver	INFO	Listening on 127.0.0.1:62346
+1657870138623	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezdyiY6"
+1657870139026	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62347
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilezdyiY6\\search.json.mozlz4", (void 0)))
+1657870140772	Marionette	INFO	Listening on port 62367
+DevTools listening on ws://localhost:62347/devtools/browser/2e3cfd3d-1929-45cf-bfe8-16553745bb0e
+Read port: 62367
+1657870140872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657870155229	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657872076607	Marionette	INFO	Stopped listening on port 62367
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657873810098	geckodriver	INFO	Listening on 127.0.0.1:60499
+1657873813146	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileH2bKMb"
+1657873813553	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60500
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileH2bKMb\\search.json.mozlz4", (void 0)))
+1657873815322	Marionette	INFO	Listening on port 60519
+Read port: 60519
+DevTools listening on ws://localhost:60500/devtools/browser/efc5e124-1f8e-428a-8d1e-450e1b9a7a2e
+1657873815361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657873836003	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874031421	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874182604	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874310610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874790976	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874791705	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874792421	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874793140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874793853	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874794567	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874795286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874796003	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874796722	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874797441	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874798164	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874798879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+1657874799598	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+1657874800303	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874801018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874801741	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874802459	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+1657874803165	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874803884	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657874824098	Marionette	INFO	Stopped listening on port 60519
+[Parent 7272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657876362163	geckodriver	INFO	Listening on 127.0.0.1:60754
+1657876365248	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile0Xj1fR"
+1657876365666	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60755
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile0Xj1fR\\search.json.mozlz4", (void 0)))
+1657876367439	Marionette	INFO	Listening on port 60776
+Read port: 60776
+DevTools listening on ws://localhost:60755/devtools/browser/b39b781f-e82e-413f-8a9b-7301b25c3679
+1657876367493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+1657876382501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3727: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 3640: TypeError: dv1 is null
+1657876537174	Marionette	INFO	Stopped listening on port 60776
+[Parent 15804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
