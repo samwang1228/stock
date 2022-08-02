@@ -1,3 +1,6 @@
 沛錡/word2vec/data/
 沛錡/word2vec/data.zip
-沛錡/word2vec/material_information_2021.csv
+沛錡/word2vec/info_data/material_information_2021.csv
+沛錡/word2vec/2317_ckip_result.pkl
+沛錡/word2vec/2317_vector_data_750000.pkl
+沛錡/word2vec/w2v_data/
